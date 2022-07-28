@@ -270,9 +270,43 @@ idoc-app/  							 # Root directory.
   |-views/						#
  |-cache/							#
  |-config/							#
+  |-config.js					#
+   |-events.js					#
+   |-license.js					#
+   |-license.lic				#
+   |-middlewares.js				#
+   |-privilege.js				#
+   |-scheduler.js				#
  |-database/						#
+  |-ai-bot.db					#
+  |-app.db						#
+  |-app1.db						#
+  |-group.db					#
+  |-group1.db					#
+  |-list.db						#
+  |-menu.db						#
+  |-module.db					#
+  |-module.db					#
+  |-privilege.db				#
+  |-privilege1.db				#
+  |-process.db					#
+  |-process1.db					#
+  |-project.db					#
+  |-role.db						#
+  |-role1.db					#
+  |-user.db						#
+  |-user1.db					#
  |-libs/							#
+  |-email.js					#
+  |-filewatcher.js				#
+  |-functions.js				#
+  |-message.js					#
  |-locales/							#
+  |-ar.json						#
+  |-bn.json						#
+  |-en.json						#
+  |-es.json						#
+  |-fr.json						#
  |-package-lock.json				#
  |-package.json						#
  |-public/							#
