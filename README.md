@@ -25,43 +25,43 @@ Here's a folder structure for a Seamless Platform:
 ```
 seamless-platform/  # Root directory.
 
-|-app/           	  # Folder used to store builded (output) files.
- |-apis/			      #
+|-app/						# Folder used to store builded (output) files.
+ |-apis/				#
   |-account.js			#
   |-auth.js				#
   |-form.js				#
-  |-message.js		#
+  |-message.js			#
   |-module.js			#
-  |-process.js		#
+  |-process.js			#
   |-task.js				#
   |-user.js				#
- |-routes            #
+ |-routes 					#
   |-access-management/	#
    |-group.js           #    
-   |-privilege.js		    #
-   |-project.js  	      # 
-   |-role.js            #
-   |-user.js			      #		
-  |-admin.js			    #
-  |-auth.js           #
-  |-builder/	        #
-   |-flow.js		 	 #
-   |-form.js       #
-   |-menu.js       #
-   |-report.js     #
+   |-privilege.js		#
+   |-project.js 		# 
+   |-role.js			#
+   |-user.js			#		
+  |-admin.js			#
+  |-auth.js				#
+  |-builder/			#
+   |-flow.js		#
+   |-form.js        #
+   |-menu.js        #
+   |-report.js      #
   |-change-password.js	#
   |-chat/               #
-   |-index.js      # 
-  |-config/ 		        #
-   |-locale.js     #
+   |-index.js       # 
+  |-config/				#
+   |-locale.js		#
   |-forgot-password.js  # 
-  |-help.txt            #
-  |-index.js    		    #
-  |-index_1.js		      #  
-  |-masters/			      #
-   |-contacts.js   #
-   |-customer.js   #
-   |-vendor.js     #
+  |-help.txt			#
+  |-index.js			#
+  |-index_1.js			#  
+  |-masters/			#
+   |-contacts.js	#
+   |-customer.js	#
+   |-vendor.js		#
   |-message.js          #
   |-monaco.js           #
   |-myroute.js          #
@@ -75,63 +75,12 @@ seamless-platform/  # Root directory.
   |-unlock-user.js      #
  |-services/               #
   |-document/           #
-=======
-|- app/           	# Folder used to store builded (output) files.
-  |- apis/			          #
-   |- account.js			#
-   |- auth.js				#
-   |- form.js				#
-   |- message.js			#
-   |- module.js				#
-   |- process.js			#
-   |- task.js				#
-   |- user.js				#
-  |- routes/		              #
-   |- access-management/	#
-    |- group.js           #    
-    |- privilege.js		  #
-    |- project.js  	  # 
-    |- role.js            #
-    |- user.js			  #		
-   |- admin.js			    #
-   |-auth.js               #
-   |-builder/	            #
-    |- flow.js			 #
-    |- form.js          #
-    |- menu.js          #
-    |- report.js          #
-   |-change-password.js	#
-   |- chat/                #
-    |-index.js          # 
-   |- config/   		    #
-    |-locale.js         #
-  |- forgot-password.js   # 
-  |- help.txt            #
-  |- index.js    		    #
-  |- index_1.js		    #  
-  |- masters/			    #
-   |-contacts.js       #
-   |-customer.js       #
-   |-vendor.js         #
-  |- message.js          #
-  |- monaco.js           #
-  |- myroute.js          #
-  |- profile.js          #
-  |- reset-password.js   #
-  |- sendmail.js         #
-  |- signin.js           #
-  |- signout.js          #
-  |- signup.js           #
-  |- ui-flow.js          #
-  |- unlock-user.js      #
-|-services/                   #
-  |-document/             #
-   |-document.exists.js  #
-   |-document.get.js     #
+   |-document.exists.js	#
+   |-document.get.js	#
    |-document.getSerialNumber.js #
    |-document.update.js  # 
-  |-email.send.js         #
- |-templates/               #
+  |-email.send.js			#
+ |-templates/				#
   |-form/                 #
    |-Employee Details.js #
   |-module/               #
