@@ -179,7 +179,30 @@ seamless-platform/  # Root directory.
    |-bootstrap-reboot.min.css.map	#
    |-bootstrap-reboot.rtl.css	#
    |-bootstrap-reboot.rtl.css.map	#
-   |-
+   |-bootstrap-reboot.rtl.min.css	#
+   |-bootstrap-reboot.rtl.min.css.map	#
+   |-bootstrap-utilities.css		#
+   |-bootstrap-utilities.css.map	#
+   |-bootstrap-utilities.min.css	#
+   |-bootstrap-utilities.min.css.map	#
+   |-bootstrap-utilities.rtl.css	#
+   |-bootstrap-utilities.rtl.css.map	#
+   |-bootstrap-utilities.rtl.min.css	#
+   |-bootstrap-utilities.rtl.min.css.map	#
+   |-bootstrap.css						#
+   |-bootstrap.css.map					#
+   |-bootstrap.min.css					#
+   |-bootstrap.min.css.map				#
+   |-bootstrap.rtl.css					#
+   |-bootstrap.rtl.css.map				#
+   |-bootstrap.rtl.min.css				#
+   |-bootstrap.rtl.min.css.map			#
+   |-custom.css							#
+   |-custom.rtl.css						#
+   |-fonts/								#
+    |-bootstrap-icons.woff				#
+	|-bootstrap-icons.woff2				#
+   |-help-center.css					#	
 ```
 
 Here's a folder structure for a Seamless Application:
