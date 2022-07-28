@@ -310,6 +310,13 @@ idoc-app/  							 # Root directory.
  |-package-lock.json				#
  |-package.json						#
  |-public/							#
+  |-assets/						#
+   |-css/						#
+   |-images/					#
+   |-js/						#
+  |-manifest.json				#
+  |-offline.html				#
+  |-worker.js					#
  |-session/							#
  |-upload/							#
 
