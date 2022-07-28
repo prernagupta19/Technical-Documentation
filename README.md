@@ -24,7 +24,7 @@ Here's a folder structure for a Seamless Platform:
 
 ```
 seamless-platform/  # Root directory.
-<<<<<<< HEAD
+
 |-app/           	  # Folder used to store builded (output) files.
  |-apis/			      #
   |-account.js			#
@@ -126,7 +126,6 @@ seamless-platform/  # Root directory.
   |- unlock-user.js      #
 |-services/                   #
   |-document/             #
->>>>>>> 8ea04926e037719214587db6cbf13dd1b56ed507
    |-document.exists.js  #
    |-document.get.js     #
    |-document.getSerialNumber.js #
