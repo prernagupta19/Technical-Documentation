@@ -202,7 +202,47 @@ seamless-platform/  # Root directory.
    |-fonts/								#
     |-bootstrap-icons.woff				#
 	|-bootstrap-icons.woff2				#
-   |-help-center.css					#	
+   |-help-center.css					#
+  |-fonts/									#
+   |-nunito/							#
+    |-Nunito-Italic-VariableFont_wght.ttf	#
+	|-Nunito-VariableFont_wght.ttf			#
+	|-OFL.txt								#
+	|-nunito.css							#
+	|-static/								#
+	 |-Nunito-Black.ttf					#
+	 |Nunito-BlackItalic.ttf			#
+	 |-Nunito-Bold.ttf					#
+	 |-Nunito-BoldItalic.ttf			#
+	 |-Nunito-ExtraBold.ttf				#
+	 |-Nunito-ExtraBoldItalic.ttf		#
+	 |-Nunito-ExtraLight.ttf			#
+	 |-Nunito-ExtraLightItalic.ttf		#
+	 |-Nunito-Italic.ttf				#
+	 |-Nunito-LightItalic.ttf			#
+	 |-Nunito-Medium.ttf				#
+	 |-Nunito-MediumItalic.ttf			#
+	 |-Nunito-Regular.ttf				#
+	 |-Nunito-SemiBold.ttf				#
+	 |-Nunito-SemiBoldItalic.ttf		#
+   |-roboto/							#
+    |-LICENSE.txt						#
+	|-Roboto-Black.ttf					#
+	|-Roboto-BlackItalic.ttf			#
+	|-Roboto-Bold.ttf					#
+	|-Roboto-BoldItalic.ttf				#
+	|-Roboto-Italic.ttf					#
+	|-Roboto-Light.ttf					#
+	|-Roboto-LightItalic.ttf			#
+	|-Roboto-Medium.ttf					#
+	|-Roboto-MediumItalic.ttf			#
+	|-Roboto-Regular.ttf				#
+	|-Roboto-Thin.ttf					#
+	|-Roboto-ThinItalic.ttf				#
+	|-roboto.css						#
+ |-images/									#
+ |-js/										#
+ |-libs/									#
 ```
 
 Here's a folder structure for a Seamless Application:
