@@ -249,16 +249,34 @@ seamless-platform/  # Root directory.
  |-sw.js								#
 ```
 
-Here's a folder structure for a Seamless Application:
+Here's a folder structure for a Seamless application:
 
 ```
-seamless-platform/  # Root directory.
-|- app/           	# Folder used to store builded (output) files.
-|- public/          # Markdowns files; one for each chapter.
-|- images/       	# Images folder.
-|- metadata.yml  	# Metadata content (title, author...).
-|- Makefile      	# Makefile used for building our documents.
-```
-
+idoc-app/  							 # Root directory.
+ |-LICENSE							#
+ |-app.js							#
+ |-app.json							#
+ |-app/								#
+  |-apis/						#
+  |-configs/					#
+  |-flows/						#
+  |-forms/						#
+  |-licenses/					#
+  |-privileges/					#
+  |-reports/					#
+  |-routes/						#
+  |-services/					#
+  |-templates/					#
+  |-views/						#
+ |-cache/							#
+ |-config/							#
+ |-database/						#
+ |-libs/							#
+ |-locales/							#
+ |-package-lock.json				#
+ |-package.json						#
+ |-public/							#
+ |-session/							#
+ |-upload/							#
 
 
