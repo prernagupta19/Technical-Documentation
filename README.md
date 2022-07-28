@@ -24,6 +24,7 @@ Here's a folder structure for a Seamless Platform:
 
 ```
 seamless-platform/  # Root directory.
+<<<<<<< HEAD
 |-app/           	  # Folder used to store builded (output) files.
  |-apis/			      #
   |-account.js			#
@@ -74,6 +75,58 @@ seamless-platform/  # Root directory.
   |-unlock-user.js      #
  |-services/               #
   |-document/           #
+=======
+|- app/           	# Folder used to store builded (output) files.
+  |- apis/			          #
+   |- account.js			#
+   |- auth.js				#
+   |- form.js				#
+   |- message.js			#
+   |- module.js				#
+   |- process.js			#
+   |- task.js				#
+   |- user.js				#
+  |- routes/		              #
+   |- access-management/	#
+    |- group.js           #    
+    |- privilege.js		  #
+    |- project.js  	  # 
+    |- role.js            #
+    |- user.js			  #		
+   |- admin.js			    #
+   |-auth.js               #
+   |-builder/	            #
+    |- flow.js			 #
+    |- form.js          #
+    |- menu.js          #
+    |- report.js          #
+   |-change-password.js	#
+   |- chat/                #
+    |-index.js          # 
+   |- config/   		    #
+    |-locale.js         #
+  |- forgot-password.js   # 
+  |- help.txt            #
+  |- index.js    		    #
+  |- index_1.js		    #  
+  |- masters/			    #
+   |-contacts.js       #
+   |-customer.js       #
+   |-vendor.js         #
+  |- message.js          #
+  |- monaco.js           #
+  |- myroute.js          #
+  |- profile.js          #
+  |- reset-password.js   #
+  |- sendmail.js         #
+  |- signin.js           #
+  |- signout.js          #
+  |- signup.js           #
+  |- ui-flow.js          #
+  |- unlock-user.js      #
+|-services/                   #
+  |-document/             #
+>>>>>>> 8ea04926e037719214587db6cbf13dd1b56ed507
    |-document.exists.js  #
    |-document.get.js     #
    |-document.getSerialNumber.js #
@@ -129,7 +182,7 @@ Creating a new chapter is as simple as creating a new markdown file in the
 src/01-introduction.md
 src/02-installation.md
 src/03-usage.md
-src/04-references.md
+src/04-references.md 
 ```
 
 Pandoc and Make will join them automatically ordered by name; that's why the
