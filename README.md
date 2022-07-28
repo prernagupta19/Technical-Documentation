@@ -243,6 +243,10 @@ seamless-platform/  # Root directory.
  |-images/									#
  |-js/										#
  |-libs/									#
+|-workers/ 									#
+ |-events.js							#
+ |-socket.js							#
+ |-sw.js								#
 ```
 
 Here's a folder structure for a Seamless Application:
