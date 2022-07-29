@@ -252,7 +252,7 @@ seamless-platform/  # Root directory.
 Here's a folder structure for a Seamless application:
 
 ```
-idoc-app/  							 # Root directory.
+idoc-app/  							# Root directory.
  |-LICENSE							#
  |-app.js							#
  |-app.json							#
